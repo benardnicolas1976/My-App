@@ -1,0 +1,30 @@
+Operating System:
+    Name: Windows 10 Version 2009 (OS Build 19043.1110)
+    Locale: fr-FR
+    Secure Boot/Trusted Boot is disabled
+
+CPU Information:
+    Architecture: x64
+    Cores count: 6
+
+System BIOS:
+    Version: American Megatrends Inc. 1.A0
+    Date: 06/10/2020
+
+GPU Information:
+    Name: Intel(R) UHD Graphics 630
+    Vendor id: 0x8086
+    Product id: 0x3E98
+    Stepping: 2
+    Driver Version: 27.20.100.8935
+    Driver Date: 10-28-2020
+
+Machine:
+    Name: DESKTOP-PNRMGS1
+    Memory: 32666 MB
+    Screen: 1366x768, 32 bit
+
+Graphics Performance Analyzers:
+    Version: 21.2.1624350604
+    Commit hash: c175604e
+    Installation folder: C:\Program Files\IntelSWTools\GPA\
